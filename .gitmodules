@@ -1,0 +1,3 @@
+[submodule "react_trivia"]
+	path = react_trivia
+	url = https://github.com/chrisalee/react_trivia
